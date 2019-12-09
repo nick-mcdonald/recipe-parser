@@ -1,0 +1,42 @@
+{
+    "manifest_version": 2,
+    "name": "Recipe Parser",
+    "version": "0.1",
+    "minimum_chrome_version": "35.0.0",
+    "homepage_url": "https://github.com/nick-mcdonald/recipe-parser",
+    "permissions": [
+      "activeTab"
+    ],
+
+    "description": "Sends page content and options to the parser",
+    "icons": {
+      "64": "images/icon_64.png",
+      "650": "images/icon_650.png"
+    },
+
+    "page_action": {
+        "default_icons": {
+          "64": "images/icon_64.png",
+          "650": "images/icon_650.png"
+        },
+        "default_title": "Recipe Parser",
+        "default_popup": "popup.html"
+    },
+
+    "background": {
+      "persistent": false,
+      "scripts": [
+        "source/background/check_parser.js",
+        "source/background/commands.js"
+      ]
+    },
+
+    "commands": {
+      "parse-recipe-page": {
+        "suggested_key": {
+          "default": "Alt+P"
+        },
+        "description": "Parse current page for a recipe"
+      }
+    }
+  }
