@@ -1,0 +1,686 @@
+
+
+<!-- Start Wrap All -->
+<div class="wrap_all" style="height: auto !important;">
+
+<!-- Header -->
+<header class="sticky-header nav-small">
+	<div class="container">
+    	<div class="row">
+        
+		<div class="col-md-3">
+		<div id="logo">
+			<a href="https://easyportugueserecipes.com" title="">
+									                            
+							</a>
+		</div>
+		</div>
+            
+        <div class="col-md-9">
+            <!-- Mobile Menu -->
+            <a id="mobile-nav" class="menu-nav" href="#menu-nav"><span class="menu-icon"></span></a>
+                
+            <!-- Standard Menu -->
+            <div id="menu">
+                <ul id="menu-nav" class="superfish">
+                <li id="menu-item-5173" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-5173"><a href="https://easyportugueserecipes.com/">Home</a></li>
+<li id="menu-item-5176" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-has-children menu-item-5176"><a href="https://easyportugueserecipes.com/recipes/">Recipes</a>
+<ul class="sub-menu superfish" style="float: none; width: 14.2857em; display: none; visibility: hidden;">
+	<li id="menu-item-5175" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5175" style="white-space: normal; float: none; width: 100%;"><a href="https://easyportugueserecipes.com/recipe-index/" style="float: none; width: auto;">Recipe Index</a></li>
+	<li id="menu-item-5199" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5199" style="white-space: normal; float: none; width: 100%;"><a href="https://easyportugueserecipes.com/category/azorean/" style="float: none; width: auto;">Azorean</a></li>
+	<li id="menu-item-5202" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5202" style="white-space: normal; float: none; width: 100%;"><a href="https://easyportugueserecipes.com/category/beef/" style="float: none; width: auto;">Beef</a></li>
+	<li id="menu-item-5303" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5303" style="white-space: normal; float: none; width: 100%;"><a href="https://easyportugueserecipes.com/category/chicken/" style="float: none; width: auto;">Chicken</a></li>
+	<li id="menu-item-5200" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5200" style="white-space: normal; float: none; width: 100%;"><a href="https://easyportugueserecipes.com/category/fish-3/" style="float: none; width: auto;">Fish</a></li>
+	<li id="menu-item-5198" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5198" style="white-space: normal; float: none; width: 100%;"><a href="https://easyportugueserecipes.com/category/pork/" style="float: none; width: auto;">Pork</a></li>
+	<li id="menu-item-5201" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5201" style="white-space: normal; float: none; width: 100%;"><a href="https://easyportugueserecipes.com/category/seafood/" style="float: none; width: auto;">Seafood</a></li>
+	<li id="menu-item-5194" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5194" style="white-space: normal; float: none; width: 100%;"><a href="https://easyportugueserecipes.com/category/desserts-2/" style="float: none; width: auto;">Desserts</a></li>
+	<li id="menu-item-5195" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-has-children menu-item-5195" style="white-space: normal; float: none; width: 100%;"><a href="https://easyportugueserecipes.com/category/others/" style="float: none; width: auto;">Others<i class="font-icon-arrow-right-simple-thin-round"></i></a>
+	<ul class="sub-menu superfish" style="left: 14.2857em; float: none; width: 14.2857em; display: none; visibility: hidden;">
+		<li id="menu-item-5196" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5196" style="white-space: normal; float: none; width: 100%;"><a href="https://easyportugueserecipes.com/category/others/soup/" style="float: none; width: auto;">Soup</a></li>
+		<li id="menu-item-5659" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5659" style="white-space: normal; float: none; width: 100%;"><a href="https://easyportugueserecipes.com/category/salads/" style="float: none; width: auto;">Salads</a></li>
+		<li id="menu-item-5197" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5197" style="white-space: normal; float: none; width: 100%;"><a href="https://easyportugueserecipes.com/category/others/sides/" style="float: none; width: auto;">Sides</a></li>
+		<li id="menu-item-5660" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5660" style="white-space: normal; float: none; width: 100%;"><a href="https://easyportugueserecipes.com/category/sauce/" style="float: none; width: auto;">Sauce</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-5652" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5652"><a href="https://easyportugueserecipes.com/submit-recipe/">Submit Recipe</a></li>
+<li id="menu-item-5187" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5187"><a href="https://easyportugueserecipes.com/about/">About</a></li>
+<li id="menu-item-5193" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-5193"><a href="https://easyportugueserecipes.com/contact/">Contact</a>
+<ul class="sub-menu superfish" style="float: none; width: 14.2857em; display: none; visibility: hidden;">
+	<li id="menu-item-8301" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8301" style="white-space: normal; float: none; width: 100%;"><a href="https://easyportugueserecipes.com/privacy-policy/" style="float: none; width: auto;">Privacy Policy</a></li>
+</ul>
+</li>
+<li id="menu-item-5731" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5731"><a href="https://www.easyportugueserecipes.com/wp-login.php">Log In</a></li>
+	
+                </ul>
+            </div>
+        </div>
+      
+        </div>
+    </div>
+</header>
+<!-- End Header -->
+
+<!-- Mobile Navigation Mobile Menu -->
+<div id="navigation-mobile" style="display: none;">
+	<div class="container">
+    	<div class="row">
+        	<div class="col-md-12">
+            	<ul id="menu-nav-mobile">
+                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-5173"><a href="https://easyportugueserecipes.com/">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-has-children menu-item-5176 has-ul"><a href="https://easyportugueserecipes.com/recipes/">Recipes<i class="font-icon-arrow-down-simple-thin-round"></i></a>
+<ul class="sub-menu" style="display: none;">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5175"><a href="https://easyportugueserecipes.com/recipe-index/">Recipe Index</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5199"><a href="https://easyportugueserecipes.com/category/azorean/">Azorean</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5202"><a href="https://easyportugueserecipes.com/category/beef/">Beef</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5303"><a href="https://easyportugueserecipes.com/category/chicken/">Chicken</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5200"><a href="https://easyportugueserecipes.com/category/fish-3/">Fish</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5198"><a href="https://easyportugueserecipes.com/category/pork/">Pork</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5201"><a href="https://easyportugueserecipes.com/category/seafood/">Seafood</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5194"><a href="https://easyportugueserecipes.com/category/desserts-2/">Desserts</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-has-children menu-item-5195 has-ul"><a href="https://easyportugueserecipes.com/category/others/">Others<i class="font-icon-arrow-down-simple-thin-round"></i></a>
+	<ul class="sub-menu" style="display: none;">
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5196"><a href="https://easyportugueserecipes.com/category/others/soup/">Soup</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5659"><a href="https://easyportugueserecipes.com/category/salads/">Salads</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5197"><a href="https://easyportugueserecipes.com/category/others/sides/">Sides</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5660"><a href="https://easyportugueserecipes.com/category/sauce/">Sauce</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5652"><a href="https://easyportugueserecipes.com/submit-recipe/">Submit Recipe</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5187"><a href="https://easyportugueserecipes.com/about/">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-5193 has-ul"><a href="https://easyportugueserecipes.com/contact/">Contact<i class="font-icon-arrow-down-simple-thin-round"></i></a>
+<ul class="sub-menu" style="display: none;">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8301"><a href="https://easyportugueserecipes.com/privacy-policy/">Privacy Policy</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5731"><a href="https://www.easyportugueserecipes.com/wp-login.php">Log In</a></li>
+	
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- End Navigation Mobile Menu -->
+
+<!-- Start Main -->
+<div id="main" class="sticky-header-enabled" style="height: auto !important;">
+		
+	
+    		
+            <section id="title-page">
+        	<span class="overlay-bg-fill"></span>
+        	<div class="container pagize">
+            	<div class="row">
+                	<div class="col-md-12 textalignleft">
+						                         	<h2>Portuguese Rolls (Papo Secos)</h2>
+                                                                            <div class="entry-meta entry-header">
+                                <span class="published">August 6, 2015</span>
+                                <span class="meta-sep"> / </span>
+                                <span class="comment-count"><a href="https://easyportugueserecipes.com/portuguese-rolls-papo-secos/#comments">14 Comments</a></span>
+                                                            </div>
+                                    		</div>
+            	</div>
+            </div>
+        </section>
+		    
+    
+<div id="content" style="height: auto !important;">
+	<section id="blog" class="default-padding single-post" style="height: auto !important;">
+		<div class="container" style="height: auto !important;">
+			<div class="row" style="height: auto !important;">
+
+			<div id="post-area" class="col-md-9 left_side" style="height: auto !important; min-height: 0px !important;">          
+  
+			
+			<article class="post-5747 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized category-others tag-bread-roll tag-papo-secos tag-portuguese-bread last" id="post-5747">	
+				
+
+<div class="post-thumb">
+	<img width="578" height="385" src="https://easyportugueserecipes.com/wp-content/uploads/2015/08/DSC0815.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://easyportugueserecipes.com/wp-content/uploads/2015/08/DSC0815.jpg 578w, https://easyportugueserecipes.com/wp-content/uploads/2015/08/DSC0815-300x200.jpg 300w" sizes="(max-width: 578px) 100vw, 578px"></div>
+
+<div class="entry-content">
+    <p><strong>Photo Courtesy of Anita Willitts at <a href="http://kitchengetaway.com/portuguese-rolls" target="_blank">KitchenGetaway.com</a></strong></p>
+<p>Papo Secos are the quintessential Portuguese bread rolls. These rolls have a nice crusty outside with a perfectly light and soft inside. They are the perfect accompaniment for just about any meal, you can dip them in any flavorful soup or sauce to absorb the delicious flavor. Perfect for eating along with some delicious Portuguese <a href="http://www.amazon.com/gp/product/B006IWA5T0/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B006IWA5T0&amp;linkCode=as2&amp;tag=easyportreci-20&amp;linkId=UNIJ4NSXWUHTEKCP">cheese from S. Jorge</a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=easyportreci-20&amp;l=as2&amp;o=1&amp;a=B006IWA5T0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;">.<br>
+<span id="more-5747"></span><br>
+*Makes 10 to 12 Bread Rolls*<br>
+<strong>Ingredients:</strong><br>
+5 cups flour<br>
+1 package dry active yeast<br>
+1 pinch of salt<br>
+2 teaspoons sugar<br>
+3 tablespoons butter<br>
+1 teaspoon shortening like crisco<br>
+2 cups lukewarm water<br>
+1 tablespoon flour to cover</p>
+<p><strong>Directions:</strong><br>
+1) Dissolve the yeast in a bowl with the 1/2 cup of the lukewarm water and 2 teaspoons sugar. Let it sit for 5 minutes.<br>
+2) Add 1 cup flour to the bowl and mix well. Cover with a cloth and let it sit for about an hour until it has doubled in size.<br>
+3) Once ready, remove the cloth and add in your remaining ingredients. Mix well.<br>
+4) Flour the surface of a pan and knead the dough on top until it reaches a smooth and even consistency.<br>
+5) Place in a bowl to let rise for about an hour.<br>
+6) Once done, break off 10 to 12 portions of dough.<br>
+7) On a floured surface, roll each portion into a smooth ball. Press down on the dough pieces with your hands and twist the opposite ends of each side of the rolls in order to maintain their shape.<br>
+8) Sprinkle them with tablespoon of flour.<br>
+9) Cover the pieces of dough and let them sit in a warm, dry place for about 45 minutes to completely finish rising.<br>
+10) Pre-heat the oven to 475 degrees fahrenheit.<br>
+11) Place the rolls crease up on a lightly greased and floured baking sheet.<br>
+12) Bake in the oven for about 15 minutes until the bread rolls are golden brown.<br>
+13) Once done, remove from the oven and let them cool for 5 to 10 minutes.<br>
+14) Serve while hot or place them in a plastic bag to save for later.</p>
+    </div>
+
+<div class="entry-meta entry-footer">
+	<span class="entry-categories">Posted in:  <a href="https://easyportugueserecipes.com/category/uncategorized/">All Recent Recipes</a>, <a href="https://easyportugueserecipes.com/category/others/">Others</a></span>
+	<span class="entry-tags">Tagged: <a href="https://easyportugueserecipes.com/tag/bread-roll/" rel="tag">bread roll</a>, <a href="https://easyportugueserecipes.com/tag/papo-secos/" rel="tag">papo secos</a>, <a href="https://easyportugueserecipes.com/tag/portuguese-bread/" rel="tag">portuguese bread</a></span>
+</div>
+			</article>
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- EPR Comment -->
+<ins class="adsbygoogle" style="display: block; height: 280px;" data-ad-client="ca-pub-5205183974166629" data-ad-slot="5221246966" data-ad-format="auto" data-adsbygoogle-status="done"><ins id="aswift_1_expand" style="display:inline-table;border:none;height:280px;margin:0;padding:0;position:relative;visibility:visible;width:848px;background-color:transparent;"><ins id="aswift_1_anchor" style="display:block;border:none;height:280px;margin:0;padding:0;position:relative;visibility:visible;width:848px;background-color:transparent;"><iframe width="848" height="280" frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" allowfullscreen="true" onload="var i=this.id,s=window.google_iframe_oncopy,H=s&amp;&amp;s.handlers,h=H&amp;&amp;H[i],w=this.contentWindow,d;try{d=w.document}catch(e){}if(h&amp;&amp;d&amp;&amp;(!d.body||!d.body.firstChild)){if(h.call){setTimeout(h,0)}else if(h.match){try{h=s.upd(h,i)}catch(e){}w.location.replace(h)}}" id="aswift_1" name="aswift_1" style="left: 0px; position: absolute; top: 0px; border: 0px; width: 848px; height: 280px; overflow: visible;"></iframe></ins></ins></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- EPR Matched -->
+<ins class="adsbygoogle" style="display: block; height: 508px;" data-ad-client="ca-pub-5205183974166629" data-ad-slot="4851949361" data-ad-format="autorelaxed" data-adsbygoogle-status="done"><ins id="aswift_2_expand" style="display:inline-table;border:none;height:508px;margin:0;padding:0;position:relative;visibility:visible;width:848px;background-color:transparent;"><ins id="aswift_2_anchor" style="display:block;border:none;height:508px;margin:0;padding:0;position:relative;visibility:visible;width:848px;background-color:transparent;"><iframe width="848" height="508" frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" allowfullscreen="true" onload="var i=this.id,s=window.google_iframe_oncopy,H=s&amp;&amp;s.handlers,h=H&amp;&amp;H[i],w=this.contentWindow,d;try{d=w.document}catch(e){}if(h&amp;&amp;d&amp;&amp;(!d.body||!d.body.firstChild)){if(h.call){setTimeout(h,0)}else if(h.match){try{h=s.upd(h,i)}catch(e){}w.location.replace(h)}}" id="aswift_2" name="aswift_2" style="left:0;position:absolute;top:0;border:0px;width:848px;height:508px;"></iframe></ins></ins></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+            <div class="az-social-share single-post"><div class="fb-like fb_iframe_widget" data-href="https://easyportugueserecipes.com/portuguese-rolls-papo-secos/" data-width="450" data-layout="button_count" data-show-faces="false" data-send="false" fb-xfbml-state="rendered" fb-iframe-plugin-query="app_id=&amp;container_width=107&amp;href=https%3A%2F%2Feasyportugueserecipes.com%2Fportuguese-rolls-papo-secos%2F&amp;layout=button_count&amp;locale=en_US&amp;sdk=joey&amp;send=false&amp;show_faces=false&amp;width=450"><span style="vertical-align: bottom; width: 85px; height: 20px;"><iframe name="f285310b8462f6c" width="450px" height="1000px" title="fb:like Facebook Social Plugin" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" allow="encrypted-media" src="https://www.facebook.com/v2.5/plugins/like.php?app_id=&amp;channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D44%23cb%3Df431daad71fb34%26domain%3Deasyportugueserecipes.com%26origin%3Dhttps%253A%252F%252Feasyportugueserecipes.com%252Ff8057c5b9e4318%26relation%3Dparent.parent&amp;container_width=107&amp;href=https%3A%2F%2Feasyportugueserecipes.com%2Fportuguese-rolls-papo-secos%2F&amp;layout=button_count&amp;locale=en_US&amp;sdk=joey&amp;send=false&amp;show_faces=false&amp;width=450" style="border: none; visibility: visible; width: 85px; height: 20px;" class=""></iframe></span></div><a href="https://twitter.com/share" class="twitter-share-button" data-url="https://easyportugueserecipes.com/portuguese-rolls-papo-secos/">Tweet</a><div id="___plusone_0" style="position: absolute; width: 450px; left: -10000px;"><iframe ng-non-bindable="" frameborder="0" hspace="0" marginheight="0" marginwidth="0" scrolling="no" style="position:absolute;top:-10000px;width:450px;margin:0px;border-style:none" tabindex="0" vspace="0" width="100%" id="I0_1576003966252" name="I0_1576003966252" src="https://apis.google.com/u/0/se/0/_/+1/fastbutton?usegapi=1&amp;size=medium&amp;action=share&amp;annotation=bubble&amp;origin=https%3A%2F%2Feasyportugueserecipes.com&amp;url=https%3A%2F%2Feasyportugueserecipes.com%2Fportuguese-rolls-papo-secos%2F&amp;gsrc=3p&amp;ic=1&amp;jsh=m%3B%2F_%2Fscs%2Fapps-static%2F_%2Fjs%2Fk%3Doz.gapi.en.7kWSr24wXFc.O%2Fam%3DwQE%2Fd%3D1%2Fct%3Dzgms%2Frs%3DAGLTcCN-4ZptW5UzimRFZRBm6izu5h2ZaQ%2Fm%3D__features__#_methods=onPlusOne%2C_ready%2C_close%2C_open%2C_resizeMe%2C_renderstart%2Concircled%2Cdrefresh%2Cerefresh%2Conload&amp;id=I0_1576003966252&amp;_gfid=I0_1576003966252&amp;parent=https%3A%2F%2Feasyportugueserecipes.com&amp;pfname=&amp;rpctoken=35798981" data-gapiattached="true"></iframe></div><div class="g-plusone" data-size="medium" data-action="share" data-annotation="bubble" data-gapiscan="true" data-onload="true" data-gapistub="true"></div><a class="PIN_1576003966188_button_pin PIN_1576003966188_beside PIN_1576003966188_save" href="https://www.pinterest.com/pin/create/button/?guid=RL2fVYuVDx1Y-2&amp;url=https%3A%2F%2Feasyportugueserecipes.com%2Fportuguese-rolls-papo-secos%2F&amp;media=https%3A%2F%2Feasyportugueserecipes.com%2Fwp-content%2Fuploads%2F2015%2F08%2FDSC0815-300x200.jpg&amp;description=Portuguese%20Rolls%20(Papo%20Secos)" data-pin-log="button_pinit" data-pin-href="https://www.pinterest.com/pin/create/button/?guid=RL2fVYuVDx1Y-2&amp;url=https%3A%2F%2Feasyportugueserecipes.com%2Fportuguese-rolls-papo-secos%2F&amp;media=https%3A%2F%2Feasyportugueserecipes.com%2Fwp-content%2Fuploads%2F2015%2F08%2FDSC0815-300x200.jpg&amp;description=Portuguese%20Rolls%20(Papo%20Secos)" data-pin-x="7K+"><span class="PIN_1576003966188_count" data-pin-href="https://www.pinterest.com/pin/create/button/?guid=RL2fVYuVDx1Y-2&amp;url=https%3A%2F%2Feasyportugueserecipes.com%2Fportuguese-rolls-papo-secos%2F&amp;media=https%3A%2F%2Feasyportugueserecipes.com%2Fwp-content%2Fuploads%2F2015%2F08%2FDSC0815-300x200.jpg&amp;description=Portuguese%20Rolls%20(Papo%20Secos)" data-pin-log="button_pinit" data-pin-x="7K+">7K+</span>Save</a></div>
+			
+<div id="comments">
+
+	
+	        <h3 class="comments-title">14 Comments</h3>
+	
+        	<ol class="commentlist">
+                    <li class="comment even thread-even depth-1" id="li-comment-144778">
+            <div id="comment-144778" class="comment-section">              
+                <div class="comment-side">
+                	<img alt="" src="https://secure.gravatar.com/avatar/e3769d0467ba5e5f3190f9f7cf2c3ddb?s=50&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/e3769d0467ba5e5f3190f9f7cf2c3ddb?s=100&amp;d=mm&amp;r=g 2x" class="avatar avatar-50 photo" height="50" width="50">                </div>
+             
+                <div class="comment-cont">
+                    <div class="comment-author">
+                        <cite class="fn">Danie Erasmus</cite>                    </div>
+                    
+                    <div class="comment-meta commentmetadata"><a href="https://easyportugueserecipes.com/portuguese-rolls-papo-secos/#comment-144778">September 26, 2015 at 7:33 am</a> / <a rel="nofollow" class="comment-reply-link" href="#comment-144778" onclick="return addComment.moveForm( &quot;comment-144778&quot;, &quot;144778&quot;, &quot;respond&quot;, &quot;5747&quot; )" aria-label="Reply to Danie Erasmus">Reply</a></div>
+                    
+                                        
+                    <div class="comment-body">
+                        <p>I like Portuguese food</p>
+                    </div>
+                </div>
+            </div>
+	</li><!-- #comment-## -->
+        <li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-150359">
+            <div id="comment-150359" class="comment-section">              
+                <div class="comment-side">
+                	<img alt="" src="https://secure.gravatar.com/avatar/68815b507ba867423bbd4c745c8f5fb7?s=50&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/68815b507ba867423bbd4c745c8f5fb7?s=100&amp;d=mm&amp;r=g 2x" class="avatar avatar-50 photo" height="50" width="50">                </div>
+             
+                <div class="comment-cont">
+                    <div class="comment-author">
+                        <cite class="fn">Jolene</cite>                    </div>
+                    
+                    <div class="comment-meta commentmetadata"><a href="https://easyportugueserecipes.com/portuguese-rolls-papo-secos/#comment-150359">January 27, 2016 at 10:16 pm</a> / <a rel="nofollow" class="comment-reply-link" href="#comment-150359" onclick="return addComment.moveForm( &quot;comment-150359&quot;, &quot;150359&quot;, &quot;respond&quot;, &quot;5747&quot; )" aria-label="Reply to Jolene">Reply</a></div>
+                    
+                                        
+                    <div class="comment-body">
+                        <p>What do you do with the dough you remove from the bowl in step 3? Do you mean remove the cloth?</p>
+                    </div>
+                </div>
+            </div>
+	<ul class="children">
+        <li class="comment byuser comment-author-pbicudo1 bypostauthor even depth-2" id="li-comment-150377">
+            <div id="comment-150377" class="comment-section">              
+                <div class="comment-side">
+                	<img alt="" src="https://secure.gravatar.com/avatar/92f8aaa2d548cff570f12c47bf574581?s=50&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/92f8aaa2d548cff570f12c47bf574581?s=100&amp;d=mm&amp;r=g 2x" class="avatar avatar-50 photo" height="50" width="50">                </div>
+             
+                <div class="comment-cont">
+                    <div class="comment-author">
+                        <cite class="fn">Pbicudo1</cite><span class="badge_author"></span>                    </div>
+                    
+                    <div class="comment-meta commentmetadata"><a href="https://easyportugueserecipes.com/portuguese-rolls-papo-secos/#comment-150377">January 28, 2016 at 6:39 pm</a> / <a rel="nofollow" class="comment-reply-link" href="#comment-150377" onclick="return addComment.moveForm( &quot;comment-150377&quot;, &quot;150377&quot;, &quot;respond&quot;, &quot;5747&quot; )" aria-label="Reply to Pbicudo1">Reply</a></div>
+                    
+                                        
+                    <div class="comment-body">
+                        <p>Yes Jolene absolutely! Thank you for catching that typo!</p>
+                    </div>
+                </div>
+            </div>
+	</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+        <li class="comment odd alt thread-even depth-1" id="li-comment-150385">
+            <div id="comment-150385" class="comment-section">              
+                <div class="comment-side">
+                	<img alt="" src="https://secure.gravatar.com/avatar/6ed93468182d9b3bfd41f8aa9927aa5a?s=50&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/6ed93468182d9b3bfd41f8aa9927aa5a?s=100&amp;d=mm&amp;r=g 2x" class="avatar avatar-50 photo" height="50" width="50">                </div>
+             
+                <div class="comment-cont">
+                    <div class="comment-author">
+                        <cite class="fn">Barbara Delph</cite>                    </div>
+                    
+                    <div class="comment-meta commentmetadata"><a href="https://easyportugueserecipes.com/portuguese-rolls-papo-secos/#comment-150385">January 28, 2016 at 11:16 pm</a> / <a rel="nofollow" class="comment-reply-link" href="#comment-150385" onclick="return addComment.moveForm( &quot;comment-150385&quot;, &quot;150385&quot;, &quot;respond&quot;, &quot;5747&quot; )" aria-label="Reply to Barbara Delph">Reply</a></div>
+                    
+                                        
+                    <div class="comment-body">
+                        <p>What type and brand of flour do you recommend? I have never tied to bake bread but this may be my first try!</p>
+                    </div>
+                </div>
+            </div>
+	<ul class="children">
+        <li class="comment byuser comment-author-pbicudo1 bypostauthor even depth-2" id="li-comment-150398">
+            <div id="comment-150398" class="comment-section">              
+                <div class="comment-side">
+                	<img alt="" src="https://secure.gravatar.com/avatar/92f8aaa2d548cff570f12c47bf574581?s=50&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/92f8aaa2d548cff570f12c47bf574581?s=100&amp;d=mm&amp;r=g 2x" class="avatar avatar-50 photo" height="50" width="50">                </div>
+             
+                <div class="comment-cont">
+                    <div class="comment-author">
+                        <cite class="fn">Pbicudo1</cite><span class="badge_author"></span>                    </div>
+                    
+                    <div class="comment-meta commentmetadata"><a href="https://easyportugueserecipes.com/portuguese-rolls-papo-secos/#comment-150398">January 29, 2016 at 7:23 pm</a> / <a rel="nofollow" class="comment-reply-link" href="#comment-150398" onclick="return addComment.moveForm( &quot;comment-150398&quot;, &quot;150398&quot;, &quot;respond&quot;, &quot;5747&quot; )" aria-label="Reply to Pbicudo1">Reply</a></div>
+                    
+                                        
+                    <div class="comment-body">
+                        <p>All purpose flour works great for these. Let me know how it works out!</p>
+                    </div>
+                </div>
+            </div>
+	</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+        <li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-151112">
+            <div id="comment-151112" class="comment-section">              
+                <div class="comment-side">
+                	<img alt="" src="https://secure.gravatar.com/avatar/7a16454e1442c9a31387bdabb808e2d1?s=50&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/7a16454e1442c9a31387bdabb808e2d1?s=100&amp;d=mm&amp;r=g 2x" class="avatar avatar-50 photo" height="50" width="50">                </div>
+             
+                <div class="comment-cont">
+                    <div class="comment-author">
+                        <cite class="fn">Mariana</cite>                    </div>
+                    
+                    <div class="comment-meta commentmetadata"><a href="https://easyportugueserecipes.com/portuguese-rolls-papo-secos/#comment-151112">March 20, 2016 at 12:14 pm</a> / <a rel="nofollow" class="comment-reply-link" href="#comment-151112" onclick="return addComment.moveForm( &quot;comment-151112&quot;, &quot;151112&quot;, &quot;respond&quot;, &quot;5747&quot; )" aria-label="Reply to Mariana">Reply</a></div>
+                    
+                                        
+                    <div class="comment-body">
+                        <p>The package of yeast used is how many grams?</p>
+                    </div>
+                </div>
+            </div>
+	</li><!-- #comment-## -->
+        <li class="comment even thread-even depth-1" id="li-comment-151324">
+            <div id="comment-151324" class="comment-section">              
+                <div class="comment-side">
+                	<img alt="" src="https://secure.gravatar.com/avatar/07fba9753808338a3f249284e631e653?s=50&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/07fba9753808338a3f249284e631e653?s=100&amp;d=mm&amp;r=g 2x" class="avatar avatar-50 photo" height="50" width="50">                </div>
+             
+                <div class="comment-cont">
+                    <div class="comment-author">
+                        <cite class="fn">Len</cite>                    </div>
+                    
+                    <div class="comment-meta commentmetadata"><a href="https://easyportugueserecipes.com/portuguese-rolls-papo-secos/#comment-151324">March 25, 2016 at 10:27 am</a> / <a rel="nofollow" class="comment-reply-link" href="#comment-151324" onclick="return addComment.moveForm( &quot;comment-151324&quot;, &quot;151324&quot;, &quot;respond&quot;, &quot;5747&quot; )" aria-label="Reply to Len">Reply</a></div>
+                    
+                                        
+                    <div class="comment-body">
+                        <p>About 7 grams</p>
+                    </div>
+                </div>
+            </div>
+	</li><!-- #comment-## -->
+        <li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-152447">
+            <div id="comment-152447" class="comment-section">              
+                <div class="comment-side">
+                	<img alt="" src="https://secure.gravatar.com/avatar/1ccab8561f88018fd1454804b082f0c6?s=50&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/1ccab8561f88018fd1454804b082f0c6?s=100&amp;d=mm&amp;r=g 2x" class="avatar avatar-50 photo" height="50" width="50">                </div>
+             
+                <div class="comment-cont">
+                    <div class="comment-author">
+                        <cite class="fn">Gisela Tietz-Santos</cite>                    </div>
+                    
+                    <div class="comment-meta commentmetadata"><a href="https://easyportugueserecipes.com/portuguese-rolls-papo-secos/#comment-152447">April 19, 2016 at 11:17 am</a> / <a rel="nofollow" class="comment-reply-link" href="#comment-152447" onclick="return addComment.moveForm( &quot;comment-152447&quot;, &quot;152447&quot;, &quot;respond&quot;, &quot;5747&quot; )" aria-label="Reply to Gisela Tietz-Santos">Reply</a></div>
+                    
+                                        
+                    <div class="comment-body">
+                        <p>Can I use instant yeast?</p>
+                    </div>
+                </div>
+            </div>
+	<ul class="children">
+        <li class="comment byuser comment-author-pbicudo1 bypostauthor even depth-2" id="li-comment-152538">
+            <div id="comment-152538" class="comment-section">              
+                <div class="comment-side">
+                	<img alt="" src="https://secure.gravatar.com/avatar/92f8aaa2d548cff570f12c47bf574581?s=50&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/92f8aaa2d548cff570f12c47bf574581?s=100&amp;d=mm&amp;r=g 2x" class="avatar avatar-50 photo" height="50" width="50">                </div>
+             
+                <div class="comment-cont">
+                    <div class="comment-author">
+                        <cite class="fn">Pbicudo1</cite><span class="badge_author"></span>                    </div>
+                    
+                    <div class="comment-meta commentmetadata"><a href="https://easyportugueserecipes.com/portuguese-rolls-papo-secos/#comment-152538">April 26, 2016 at 10:37 pm</a> / <a rel="nofollow" class="comment-reply-link" href="#comment-152538" onclick="return addComment.moveForm( &quot;comment-152538&quot;, &quot;152538&quot;, &quot;respond&quot;, &quot;5747&quot; )" aria-label="Reply to Pbicudo1">Reply</a></div>
+                    
+                                        
+                    <div class="comment-body">
+                        <p>Hi Gisela! “Active dry yeast and instant yeast can generally be used interchangeably, one-for-one (although active dry yeast may be slower to rise). So if a recipe calls for instant yeast and active dry yeast is used instead, you may want to consider adding an extra 10 to 15 minutes for the rise time.” From <a href="http://www.thekitchn.com/whats-the-difference-between-active-dry-yeast-and-instant-yeast-54252" target="_blank" rel="nofollow">thekitchn.com</a>. Cheers!</p>
+                    </div>
+                </div>
+            </div>
+	</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+        <li class="comment odd alt thread-even depth-1" id="li-comment-152452">
+            <div id="comment-152452" class="comment-section">              
+                <div class="comment-side">
+                	<img alt="" src="https://secure.gravatar.com/avatar/54425f30cac281bebaa3bcd8097a49b5?s=50&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/54425f30cac281bebaa3bcd8097a49b5?s=100&amp;d=mm&amp;r=g 2x" class="avatar avatar-50 photo" height="50" width="50">                </div>
+             
+                <div class="comment-cont">
+                    <div class="comment-author">
+                        <cite class="fn">Mary</cite>                    </div>
+                    
+                    <div class="comment-meta commentmetadata"><a href="https://easyportugueserecipes.com/portuguese-rolls-papo-secos/#comment-152452">April 19, 2016 at 2:35 pm</a> / <a rel="nofollow" class="comment-reply-link" href="#comment-152452" onclick="return addComment.moveForm( &quot;comment-152452&quot;, &quot;152452&quot;, &quot;respond&quot;, &quot;5747&quot; )" aria-label="Reply to Mary">Reply</a></div>
+                    
+                                        
+                    <div class="comment-body">
+                        <p>Can’t wait to try these, my husband and I lived on Terceira for 2 1/2 years when we first got married and he joined the Air Force, the van would come down the street every morning selling these, they were still warm!! Friday was extra special when they had the triangle shaped coconut sweet bread</p>
+                    </div>
+                </div>
+            </div>
+	<ul class="children">
+        <li class="comment byuser comment-author-pbicudo1 bypostauthor even depth-2" id="li-comment-152537">
+            <div id="comment-152537" class="comment-section">              
+                <div class="comment-side">
+                	<img alt="" src="https://secure.gravatar.com/avatar/92f8aaa2d548cff570f12c47bf574581?s=50&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/92f8aaa2d548cff570f12c47bf574581?s=100&amp;d=mm&amp;r=g 2x" class="avatar avatar-50 photo" height="50" width="50">                </div>
+             
+                <div class="comment-cont">
+                    <div class="comment-author">
+                        <cite class="fn">Pbicudo1</cite><span class="badge_author"></span>                    </div>
+                    
+                    <div class="comment-meta commentmetadata"><a href="https://easyportugueserecipes.com/portuguese-rolls-papo-secos/#comment-152537">April 26, 2016 at 10:33 pm</a> / <a rel="nofollow" class="comment-reply-link" href="#comment-152537" onclick="return addComment.moveForm( &quot;comment-152537&quot;, &quot;152537&quot;, &quot;respond&quot;, &quot;5747&quot; )" aria-label="Reply to Pbicudo1">Reply</a></div>
+                    
+                                        
+                    <div class="comment-body">
+                        <p>That’s awesome! Being both Portuguese &amp; American myself the Lajes base in Terceira has always been a fond reference point! Let me know how the recipe works out for you. Also, the coconut sweet bread rolls are my absolute favorite sweet treat. If you’re interested here’s our <a href="https://easyportugueserecipes.com/arrufadas-sweet-rolls/" target="_blank">Coconut Sweet Bread Rolls recipe</a>. If that’s not the one your thinking of, I can continue looking into it for you.</p>
+                    </div>
+                </div>
+            </div>
+	</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+        <li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-159035">
+            <div id="comment-159035" class="comment-section">              
+                <div class="comment-side">
+                	<img alt="" src="https://secure.gravatar.com/avatar/368b9bbfce9ade83d0766cb551c68afb?s=50&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/368b9bbfce9ade83d0766cb551c68afb?s=100&amp;d=mm&amp;r=g 2x" class="avatar avatar-50 photo" height="50" width="50">                </div>
+             
+                <div class="comment-cont">
+                    <div class="comment-author">
+                        <cite class="fn">Michelle Baptiste</cite>                    </div>
+                    
+                    <div class="comment-meta commentmetadata"><a href="https://easyportugueserecipes.com/portuguese-rolls-papo-secos/#comment-159035">March 5, 2017 at 3:40 pm</a> / <a rel="nofollow" class="comment-reply-link" href="#comment-159035" onclick="return addComment.moveForm( &quot;comment-159035&quot;, &quot;159035&quot;, &quot;respond&quot;, &quot;5747&quot; )" aria-label="Reply to Michelle Baptiste">Reply</a></div>
+                    
+                                        
+                    <div class="comment-body">
+                        <p>I am looking forward to trying these. My dad brought them home often from Fall River, MA, his home town and the home town of Emeril Legasse. I will be serving them with the spicy Portuguese pulled pork, Cacoila. This will be a meal pulled straight from my memories!</p>
+                    </div>
+                </div>
+            </div>
+	</li><!-- #comment-## -->
+        <li class="comment even thread-even depth-1" id="li-comment-162216">
+            <div id="comment-162216" class="comment-section">              
+                <div class="comment-side">
+                	<img alt="" src="https://secure.gravatar.com/avatar/6f7eb345d1f6859a963f34ec07de1d97?s=50&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/6f7eb345d1f6859a963f34ec07de1d97?s=100&amp;d=mm&amp;r=g 2x" class="avatar avatar-50 photo" height="50" width="50">                </div>
+             
+                <div class="comment-cont">
+                    <div class="comment-author">
+                        <cite class="fn">Zakeera</cite>                    </div>
+                    
+                    <div class="comment-meta commentmetadata"><a href="https://easyportugueserecipes.com/portuguese-rolls-papo-secos/#comment-162216">September 27, 2017 at 12:57 pm</a> / <a rel="nofollow" class="comment-reply-link" href="#comment-162216" onclick="return addComment.moveForm( &quot;comment-162216&quot;, &quot;162216&quot;, &quot;respond&quot;, &quot;5747&quot; )" aria-label="Reply to Zakeera">Reply</a></div>
+                    
+                                        
+                    <div class="comment-body">
+                        <p>Thank you so much for this recipe. It came out perfect. My new favourite recipe.</p>
+                    </div>
+                </div>
+            </div>
+	</li><!-- #comment-## -->
+        <li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-167752">
+            <div id="comment-167752" class="comment-section">              
+                <div class="comment-side">
+                	<img alt="" src="https://secure.gravatar.com/avatar/4e549ec283915f5fb015427b29ec3ab3?s=50&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/4e549ec283915f5fb015427b29ec3ab3?s=100&amp;d=mm&amp;r=g 2x" class="avatar avatar-50 photo" height="50" width="50">                </div>
+             
+                <div class="comment-cont">
+                    <div class="comment-author">
+                        <cite class="fn">Denise</cite>                    </div>
+                    
+                    <div class="comment-meta commentmetadata"><a href="https://easyportugueserecipes.com/portuguese-rolls-papo-secos/#comment-167752">August 25, 2018 at 7:04 pm</a> / <a rel="nofollow" class="comment-reply-link" href="#comment-167752" onclick="return addComment.moveForm( &quot;comment-167752&quot;, &quot;167752&quot;, &quot;respond&quot;, &quot;5747&quot; )" aria-label="Reply to Denise">Reply</a></div>
+                    
+                                        
+                    <div class="comment-body">
+                        <p>I totally screwed this recipe up but in a good way.  I wasn’t really paying attention and when adding the last cup of water I added two, not thinking that I already used one in the beginning (3 cups total).  The dough never pulled away from the bowl, super high hydration.  That’s when the light went on as to what I did.  I almost tossed it but decided to spray a Pyrex pan, 9X13.  Dumped it in, spread it out and let it rise for about 20 min.  Preheated the oven to 425F, baked for 25 min.  It was so light and crumb was perfect.  I’ve been making it this way since.  Sometimes screw-ups pay off!  I still need to make it as written…I know it’ll be wonderful. =)</p>
+                    </div>
+                </div>
+            </div>
+	</li><!-- #comment-## -->
+            </ol>
+
+                
+                
+    		
+
+	<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/portuguese-rolls-papo-secos/#respond" style="display:none;">/ Cancel Reply</a></small></h3>			<form action="https://easyportugueserecipes.com/wp-comments-post.php" method="post" id="commentform" class="comment-form">
+				<p class="comment-form-comment"><textarea id="comment" name="comment" cols="40" rows="10" aria-required="true"></textarea></p><p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" required="required"></p>
+<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input id="email" name="email" type="text" value="" size="30" maxlength="100" aria-describedby="email-notes" required="required"></p>
+<p class="comment-form-url"><label for="url">Website</label> <input id="url" name="url" type="text" value="" size="30" maxlength="200"></p>
+<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Submit Comment"> <input type="hidden" name="comment_post_ID" value="5747" id="comment_post_ID">
+<input type="hidden" name="comment_parent" id="comment_parent" value="0">
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="5366091fbb"></p><p style="display: none;"></p>			<input type="hidden" id="ak_js" name="ak_js" value="1576003966120"></form>
+			</div><!-- #respond -->
+	</div>
+			
+			</div><!-- End Container Span -->
+
+			              
+            <div class="col-md-3 right_side" style="height: auto !important; min-height: 0px !important;">
+                <aside id="sidebar" style="height: auto !important;">
+                    <div id="search-5" class="widget widget_search"><h3 class="widget-title">Recipe Search</h3><form method="get" id="searchform" action="https://easyportugueserecipes.com/">
+	<fieldset>
+		<input type="text" name="s" value="" placeholder="To search type and hit enter...">
+    </fieldset>
+</form></div><div id="tag_cloud-3" class="widget widget_tag_cloud"><h3 class="widget-title">Categories</h3><div class="tagcloud"><a href="https://easyportugueserecipes.com/category/uncategorized/" class="tag-cloud-link tag-link-1 tag-link-position-1" style="font-size: 22pt;" aria-label="All Recent Recipes (331 items)">All Recent Recipes</a>
+<a href="https://easyportugueserecipes.com/category/azorean/" class="tag-cloud-link tag-link-120 tag-link-position-2" style="font-size: 16.198198198198pt;" aria-label="Azorean (39 items)">Azorean</a>
+<a href="https://easyportugueserecipes.com/category/beef/" class="tag-cloud-link tag-link-24 tag-link-position-3" style="font-size: 15.315315315315pt;" aria-label="Beef (28 items)">Beef</a>
+<a href="https://easyportugueserecipes.com/category/chicken/" class="tag-cloud-link tag-link-122 tag-link-position-4" style="font-size: 14.306306306306pt;" aria-label="Chicken (19 items)">Chicken</a>
+<a href="https://easyportugueserecipes.com/category/chourico/" class="tag-cloud-link tag-link-1444 tag-link-position-5" style="font-size: 16.198198198198pt;" aria-label="Chouriço (39 items)">Chouriço</a>
+<a href="https://easyportugueserecipes.com/category/desserts-2/" class="tag-cloud-link tag-link-83 tag-link-position-6" style="font-size: 18.657657657658pt;" aria-label="Desserts (96 items)">Desserts</a>
+<a href="https://easyportugueserecipes.com/category/drinks/" class="tag-cloud-link tag-link-167 tag-link-position-7" style="font-size: 13.36036036036pt;" aria-label="Drinks (13 items)">Drinks</a>
+<a href="https://easyportugueserecipes.com/category/fish-3/" class="tag-cloud-link tag-link-81 tag-link-position-8" style="font-size: 16.135135135135pt;" aria-label="Fish (38 items)">Fish</a>
+<a href="https://easyportugueserecipes.com/category/others/" class="tag-cloud-link tag-link-85 tag-link-position-9" style="font-size: 18.153153153153pt;" aria-label="Others (80 items)">Others</a>
+<a href="https://easyportugueserecipes.com/category/pork/" class="tag-cloud-link tag-link-79 tag-link-position-10" style="font-size: 16.702702702703pt;" aria-label="Pork (47 items)">Pork</a>
+<a href="https://easyportugueserecipes.com/category/reviews/" class="tag-cloud-link tag-link-1460 tag-link-position-11" style="font-size: 8pt;" aria-label="Reviews (1 item)">Reviews</a>
+<a href="https://easyportugueserecipes.com/category/others/salads/" class="tag-cloud-link tag-link-585 tag-link-position-12" style="font-size: 12.666666666667pt;" aria-label="Salads (10 items)">Salads</a>
+<a href="https://easyportugueserecipes.com/category/others/sauce/" class="tag-cloud-link tag-link-87 tag-link-position-13" style="font-size: 12.414414414414pt;" aria-label="Sauce (9 items)">Sauce</a>
+<a href="https://easyportugueserecipes.com/category/seafood/" class="tag-cloud-link tag-link-82 tag-link-position-14" style="font-size: 15.756756756757pt;" aria-label="Seafood (33 items)">Seafood</a>
+<a href="https://easyportugueserecipes.com/category/others/sides/" class="tag-cloud-link tag-link-86 tag-link-position-15" style="font-size: 15pt;" aria-label="Sides (25 items)">Sides</a>
+<a href="https://easyportugueserecipes.com/category/others/soup/" class="tag-cloud-link tag-link-84 tag-link-position-16" style="font-size: 14.684684684685pt;" aria-label="Soup (22 items)">Soup</a></div>
+</div><div id="text-31" class="widget widget_text">			<div class="textwidget"><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- EBR 2 -->
+<ins class="adsbygoogle" style="display: block; height: 600px;" data-ad-client="ca-pub-5205183974166629" data-ad-slot="2855353368" data-ad-format="auto" data-adsbygoogle-status="done"><ins id="aswift_3_expand" style="display:inline-table;border:none;height:600px;margin:0;padding:0;position:relative;visibility:visible;width:263px;background-color:transparent;"><ins id="aswift_3_anchor" style="display:block;border:none;height:600px;margin:0;padding:0;position:relative;visibility:visible;width:263px;background-color:transparent;"><iframe width="263" height="600" frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" allowfullscreen="true" onload="var i=this.id,s=window.google_iframe_oncopy,H=s&amp;&amp;s.handlers,h=H&amp;&amp;H[i],w=this.contentWindow,d;try{d=w.document}catch(e){}if(h&amp;&amp;d&amp;&amp;(!d.body||!d.body.firstChild)){if(h.call){setTimeout(h,0)}else if(h.match){try{h=s.upd(h,i)}catch(e){}w.location.replace(h)}}" id="aswift_3" name="aswift_3" style="left: 0px; position: absolute; top: 0px; border: 0px; width: 263px; height: 600px; overflow: visible;"></iframe></ins></ins></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+		</div><div id="text-32" class="widget widget_text">			<div class="textwidget"><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- EBR 2 -->
+<ins class="adsbygoogle" style="display: block; height: 600px;" data-ad-client="ca-pub-5205183974166629" data-ad-slot="2855353368" data-ad-format="auto" data-adsbygoogle-status="done"><ins id="aswift_4_expand" style="display:inline-table;border:none;height:600px;margin:0;padding:0;position:relative;visibility:visible;width:263px;background-color:transparent;"><ins id="aswift_4_anchor" style="display:block;border:none;height:600px;margin:0;padding:0;position:relative;visibility:visible;width:263px;background-color:transparent;"><iframe width="263" height="600" frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" allowfullscreen="true" onload="var i=this.id,s=window.google_iframe_oncopy,H=s&amp;&amp;s.handlers,h=H&amp;&amp;H[i],w=this.contentWindow,d;try{d=w.document}catch(e){}if(h&amp;&amp;d&amp;&amp;(!d.body||!d.body.firstChild)){if(h.call){setTimeout(h,0)}else if(h.match){try{h=s.upd(h,i)}catch(e){}w.location.replace(h)}}" id="aswift_4" name="aswift_4" style="left: 0px; position: absolute; top: 0px; border: 0px; width: 263px; height: 600px; overflow: visible;"></iframe></ins></ins></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+		</div><div id="text-42" class="widget widget_text">			<div class="textwidget"><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- EBR New -->
+<ins class="adsbygoogle" style="display: block; height: 526px;" data-ad-client="ca-pub-5205183974166629" data-ad-slot="8901886963" data-ad-format="auto" data-adsbygoogle-status="done"><ins id="aswift_5_expand" style="display: inline-table; border: none; height: 526px; margin: 0px; padding: 0px; position: relative; visibility: visible; width: 263px; background-color: transparent;"><ins id="aswift_5_anchor" style="display: block; border: none; height: 526px; margin: 0px; padding: 0px; position: relative; visibility: visible; width: 263px; background-color: transparent; overflow: hidden;"><iframe width="263" height="526" frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" allowfullscreen="true" onload="var i=this.id,s=window.google_iframe_oncopy,H=s&amp;&amp;s.handlers,h=H&amp;&amp;H[i],w=this.contentWindow,d;try{d=w.document}catch(e){}if(h&amp;&amp;d&amp;&amp;(!d.body||!d.body.firstChild)){if(h.call){setTimeout(h,0)}else if(h.match){try{h=s.upd(h,i)}catch(e){}w.location.replace(h)}}" id="aswift_5" name="aswift_5" style="left: 0px; position: absolute; top: 0px; border: 0px; width: 263px; height: 526px; overflow: visible;"></iframe></ins></ins></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+		</div>    
+                </aside>
+            </div>
+                            
+			</div> 
+		</div>
+	</section>
+</div>
+
+</div>
+<!-- End Main -->
+
+<!-- Back To Top -->
+<a id="back-to-top" href="#">
+    <i class="font-icon-arrow-up-simple-thin"></i>
+</a>
+<!-- End Back to Top -->
+
+<footer>
+		
+
+		
+<!-- Start Footer with Widgets -->
+<div class="footer-widgets">
+    <div class="container">
+        <div class="row">
+                        <div class="col-md-4">
+                                    <div id="search-4" class="widget widget_search"><h3>Recipe Search</h3><form method="get" id="searchform" action="https://easyportugueserecipes.com/">
+	<fieldset>
+		<input type="text" name="s" value="" placeholder="To search type and hit enter...">
+    </fieldset>
+</form></div>                            </div>
+
+            <div class="col-md-4">
+                                    <div id="social-widget-2" class="widget social_widget"><h3>Connect With Us</h3><a href="https://www.facebook.com/pages/Easy-Portuguese-Recipes/607828345911776" target="_blank"><i class="font-icon-social-facebook"></i></a><a href="https://plus.google.com/+Easyportugueserecipes1/posts" target="_blank"><i class="font-icon-social-google-plus"></i></a><a href="https://instagram.com/portugueserecipes" target="_blank"><i class="font-icon-social-instagram"></i></a><a href="https://www.pinterest.com/easyportuguese/" target="_blank"><i class="font-icon-social-pinterest"></i></a><a href="https://twitter.com/EasyPortugueseR" target="_blank"><i class="font-icon-social-twitter"></i></a><a href="https://www.youtube.com/channel/UCQWxOqBoIVWJCbhK_hIoipw" target="_blank"><i class="font-icon-social-youtube"></i></a></div>                            </div>
+
+                        <div class="col-md-4">
+                                    <div id="text-39" class="widget widget_text"><h3>Advertisement</h3>			<div class="textwidget"><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- EBR New -->
+<ins class="adsbygoogle" style="display: block; height: 280px;" data-ad-client="ca-pub-5205183974166629" data-ad-slot="8901886963" data-ad-format="auto" data-adsbygoogle-status="done"><ins id="aswift_6_expand" style="display:inline-table;border:none;height:280px;margin:0;padding:0;position:relative;visibility:visible;width:360px;background-color:transparent;"><ins id="aswift_6_anchor" style="display:block;border:none;height:280px;margin:0;padding:0;position:relative;visibility:visible;width:360px;background-color:transparent;"><iframe width="360" height="280" frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" allowfullscreen="true" onload="var i=this.id,s=window.google_iframe_oncopy,H=s&amp;&amp;s.handlers,h=H&amp;&amp;H[i],w=this.contentWindow,d;try{d=w.document}catch(e){}if(h&amp;&amp;d&amp;&amp;(!d.body||!d.body.firstChild)){if(h.call){setTimeout(h,0)}else if(h.match){try{h=s.upd(h,i)}catch(e){}w.location.replace(h)}}" id="aswift_6" name="aswift_6" style="left:0;position:absolute;top:0;border:0px;width:360px;height:280px;"></iframe></ins></ins></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+		</div>                            </div>
+            
+                    </div>
+    </div>
+</div>
+<!-- End Footer with Widgets -->
+        
+        
+		    
+<!-- Start Footer Credits -->
+<section id="footer-credits">
+	<div class="container">
+		<div class="row">
+
+			            
+            <div class="col-md-12">
+                <p class="copyright">© Copyright 2019 <a href="https://easyportugueserecipes.com"></a> / Powered by <a href="http://wordpress.org/" target="_blank">WordPress</a></p>
+                            </div>
+    
+                        
+		</div>
+	</div>
+</section>
+<!-- Start Footer Credits -->
+
+</footer>
+
+</div><ins class="adsbygoogle adsbygoogle-noablate" data-adsbygoogle-status="done" style="display: none !important;"><ins id="aswift_0_expand" style="display:inline-table;border:none;height:0px;margin:0;padding:0;position:relative;visibility:visible;width:0px;background-color:transparent;"><ins id="aswift_0_anchor" style="display:block;border:none;height:0px;margin:0;padding:0;position:relative;visibility:visible;width:0px;background-color:transparent;"><iframe frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" allowfullscreen="true" onload="var i=this.id,s=window.google_iframe_oncopy,H=s&amp;&amp;s.handlers,h=H&amp;&amp;H[i],w=this.contentWindow,d;try{d=w.document}catch(e){}if(h&amp;&amp;d&amp;&amp;(!d.body||!d.body.firstChild)){if(h.call){setTimeout(h,0)}else if(h.match){try{h=s.upd(h,i)}catch(e){}w.location.replace(h)}}" id="aswift_0" name="aswift_0" style="left:0;position:absolute;top:0;border:0px;width:0px;height:0px;"></iframe></ins></ins></ins>
+<!-- End Wrap All -->
+
+
+ 
+
+		<!--facebook like and share js -->                   
+		<div id="fb-root" class=" fb_reset"><div style="position: absolute; top: -10000px; width: 0px; height: 0px;"><div><iframe name="fb_xdm_frame_https" id="fb_xdm_frame_https" aria-hidden="true" title="Facebook Cross Domain Communication Frame" tabindex="-1" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" allow="encrypted-media" src="https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f8057c5b9e4318&amp;origin=https%3A%2F%2Feasyportugueserecipes.com" style="border: none;"></iframe></div><div></div></div></div>
+		<script>(function(d, s, id) {
+		  var js, fjs = d.getElementsByTagName(s)[0];
+		  if (d.getElementById(id)) return;
+		  js = d.createElement(s); js.id = id;
+		  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5";
+		  fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));</script>
+			<!--pinit js -->
+		
+	     	<script>
+	    jQuery( document ).scroll(function( $ )
+		{
+	    	var y = jQuery(this).scrollTop();
+	      	if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent))
+			{	 
+	       		if(jQuery(window).scrollTop() + jQuery(window).height() >= jQuery(document).height()-100)
+				{
+				  jQuery('.sfsi_plus_outr_div').css({'z-index':'9996',opacity:1,top:jQuery(window).scrollTop()+"px",position:"absolute"});
+				  jQuery('.sfsi_plus_outr_div').fadeIn(200);
+				  jQuery('.sfsi_plus_FrntInner').fadeIn(200);
+	       		}
+	       		else
+				{
+				   jQuery('.sfsi_plus_outr_div').fadeOut();
+				   jQuery('.sfsi_plus_FrntInner').fadeOut();
+ 			    }
+	    	}
+	  		else
+			{
+	       		if(jQuery(window).scrollTop() + jQuery(window).height() >= jQuery(document).height()-3)
+				{
+			        jQuery('.sfsi_plus_outr_div').css({'z-index':'9996',opacity:1,top:jQuery(window).scrollTop()+200+"px",position:"absolute"});
+	        		jQuery('.sfsi_plus_outr_div').fadeIn(200);
+					jQuery('.sfsi_plus_FrntInner').fadeIn(200);
+	    		}
+	  			else
+				{
+				    jQuery('.sfsi_plus_outr_div').fadeOut();
+	      			jQuery('.sfsi_plus_FrntInner').fadeOut();
+	       		}
+	 		} 
+		});
+     </script>
+     <style type="text/css">#sfsi_plus_floater { margin-right:px; }</style><div class="sfsiplus_norm_row sfsi_plus_wDiv" id="sfsi_plus_floater" style="z-index: 9999; width: 45px; text-align: left; position: absolute; right: 30px; top: 492px;" data-top="7516"><div style="width:40px; height:40px;margin-left:5px;margin-bottom:5px;" class="sfsi_plus_wicons shuffeldiv "><div class="sfsiplus_inerCnt"><a class=" sficn" effect="" target="_blank" href="http://www.facebook.com/easyportugueserecipes" id="sfsiplusid_facebook" style="opacity:1"><img alt="Facebook" title="Facebook" src="https://easyportugueserecipes.com/wp-content/plugins/ultimate-social-media-plus/images/icons_theme/default/default_fb.png" width="40" height="40" style="" class="sfcm sfsi_wicon" effect=""></a><div class="sfsi_plus_tool_tip_2 sfsi_plus_fb_tool_bdr sfsi_plus_Tlleft" style="width: 62px; opacity: 0; z-index: -1; display: none;" id="sfsiplusid_facebook"><span class="bot_arow bot_fb_arow"></span><div class="sfsi_plus_inside"><div class="icon2"><fb:like href="https://easyportugueserecipes.com/portuguese-rolls-papo-secos" width="180" send="false" showfaces="false" layout="button" action="like" class=" fb_iframe_widget" fb-xfbml-state="rendered" fb-iframe-plugin-query="action=like&amp;app_id=&amp;container_width=0&amp;href=https%3A%2F%2Feasyportugueserecipes.com%2Fportuguese-rolls-papo-secos&amp;layout=button&amp;locale=en_US&amp;sdk=joey&amp;send=false&amp;show_faces=false&amp;width=180"><span style="vertical-align: bottom; width: 59px; height: 20px;"><iframe name="f350708e5628814" width="180px" height="1000px" title="fb:like Facebook Social Plugin" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" allow="encrypted-media" src="https://www.facebook.com/v2.5/plugins/like.php?action=like&amp;app_id=&amp;channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D44%23cb%3Df2fe55f870f075%26domain%3Deasyportugueserecipes.com%26origin%3Dhttps%253A%252F%252Feasyportugueserecipes.com%252Ff8057c5b9e4318%26relation%3Dparent.parent&amp;container_width=0&amp;href=https%3A%2F%2Feasyportugueserecipes.com%2Fportuguese-rolls-papo-secos&amp;layout=button&amp;locale=en_US&amp;sdk=joey&amp;send=false&amp;show_faces=false&amp;width=180" style="border: none; visibility: visible; width: 59px; height: 20px;" class=""></iframe></span></fb:like></div><div class="icon3"><fb:share-button href="https://easyportugueserecipes.com/portuguese-rolls-papo-secos" width="140" type="button" class=" fb_iframe_widget" fb-xfbml-state="rendered" fb-iframe-plugin-query="app_id=&amp;container_width=0&amp;href=https%3A%2F%2Feasyportugueserecipes.com%2Fportuguese-rolls-papo-secos&amp;locale=en_US&amp;sdk=joey&amp;type=button&amp;width=140"><span style="vertical-align: bottom; width: 67px; height: 20px;"><iframe name="f3f2dcb80da0fcc" width="140px" height="1000px" title="fb:share_button Facebook Social Plugin" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" allow="encrypted-media" src="https://www.facebook.com/v2.5/plugins/share_button.php?app_id=&amp;channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D44%23cb%3Dfa47db214b027c%26domain%3Deasyportugueserecipes.com%26origin%3Dhttps%253A%252F%252Feasyportugueserecipes.com%252Ff8057c5b9e4318%26relation%3Dparent.parent&amp;container_width=0&amp;href=https%3A%2F%2Feasyportugueserecipes.com%2Fportuguese-rolls-papo-secos&amp;locale=en_US&amp;sdk=joey&amp;type=button&amp;width=140" style="border: none; visibility: visible; width: 67px; height: 20px;" class=""></iframe></span></fb:share-button></div></div></div></div></div><div style="width:40px; height:40px;margin-left:5px;margin-bottom:5px;" class="sfsi_plus_wicons shuffeldiv "><div class="sfsiplus_inerCnt"><a class=" sficn" effect="" target="_blank" href="" id="sfsiplusid_pinterest" style="opacity:1"><img alt="Pinterest" title="Pinterest" src="https://easyportugueserecipes.com/wp-content/plugins/ultimate-social-media-plus/images/icons_theme/default/default_pinterest.png" width="40" height="40" style="" class="sfcm sfsi_wicon" effect=""></a><div class="sfsi_plus_tool_tip_2 sfsi_plus_printst_tool_bdr sfsi_plus_Tlleft" style="width: 73px; opacity: 0; z-index: -1; display: none;" id="sfsiplusid_pinterest"><span class="bot_arow bot_pintst_arow"></span><div class="sfsi_plus_inside"><div class="icon2"><span class="PIN_1576003966188_button_pin PIN_1576003966188_save" data-pin-log="button_pinit_bookmarklet" data-pin-href="https://www.pinterest.com/pin/create/button/">Save</span></div></div></div></div></div><div style="width:40px; height:40px;margin-left:5px;margin-bottom:5px;" class="sfsi_plus_wicons shuffeldiv "><div class="sfsiplus_inerCnt"><a class=" sficn" effect="" target="_blank" href="http://www.instagram.com/foodieportuguese" id="sfsiplusid_instagram" style="opacity:1"><img alt="INSTAGRAM" title="INSTAGRAM" src="https://easyportugueserecipes.com/wp-content/plugins/ultimate-social-media-plus/images/icons_theme/default/default_instagram.png" width="40" height="40" style="" class="sfcm sfsi_wicon" effect=""></a></div></div></div><input type="hidden" id="sfsi_plus_floater_sec" value="center-right"><script>jQuery(".sfsi_plus_widget").each(function( index ) {
+					if(jQuery(this).attr("data-position") == "widget")
+					{
+						var wdgt_hght = jQuery(this).children(".sfsiplus_norm_row.sfsi_plus_wDiv").height();
+						var title_hght = jQuery(this).parent(".widget.sfsi_plus").children(".widget-title").height();
+						var totl_hght = parseInt( title_hght ) + parseInt( wdgt_hght );
+						jQuery(this).parent(".widget.sfsi_plus").css("min-height", totl_hght+"px");
+					}
+				});jQuery( document ).ready(function( $ )
+					  {
+						var topalign = ( jQuery(window).height() - jQuery('#sfsi_plus_floater').height() ) / 2;
+						jQuery('#sfsi_plus_floater').css('top',topalign);
+					  	sfsi_plus_float_widget('center');
+					  });</script><script type="text/javascript">
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/easyportugueserecipes.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://easyportugueserecipes.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.0.5"></script>
+<script type="text/javascript" src="https://easyportugueserecipes.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="https://easyportugueserecipes.com/wp-content/plugins/ultimate-social-media-plus/js/shuffle/modernizr.custom.min.js?ver=5.0.7"></script>
+<script type="text/javascript" src="https://easyportugueserecipes.com/wp-content/plugins/ultimate-social-media-plus/js/shuffle/jquery.shuffle.min.js?ver=5.0.7"></script>
+<script type="text/javascript" src="https://easyportugueserecipes.com/wp-content/plugins/ultimate-social-media-plus/js/shuffle/random-shuffle-min.js?ver=5.0.7"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var ajax_object = {"ajax_url":"https:\/\/easyportugueserecipes.com\/wp-admin\/admin-ajax.php","plugin_url":"https:\/\/easyportugueserecipes.com\/wp-content\/plugins\/ultimate-social-media-plus\/"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://easyportugueserecipes.com/wp-content/plugins/ultimate-social-media-plus/js/custom.js?ver=5.0.7"></script>
+<script type="text/javascript" src="https://easyportugueserecipes.com/wp-content/themes/klaus/_include/js/bootstrap.min.js?ver=2.3"></script>
+<script type="text/javascript" src="https://easyportugueserecipes.com/wp-content/themes/klaus/_include/js/isotope.js?ver=1.5.25"></script>
+<script type="text/javascript" src="https://easyportugueserecipes.com/wp-content/themes/klaus/_include/js/plugins.js?ver=1.0.0"></script>
+<script type="text/javascript" src="https://easyportugueserecipes.com/wp-includes/js/comment-reply.min.js?ver=5.0.7"></script>
+<script type="text/javascript" src="https://easyportugueserecipes.com/wp-includes/js/wp-embed.min.js?ver=5.0.7"></script>
+<script async="async" type="text/javascript" src="https://easyportugueserecipes.com/wp-content/plugins/akismet/_inc/form.js?ver=4.1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var theme_objects = {"base":"https:\/\/easyportugueserecipes.com\/wp-content\/themes\/klaus"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://easyportugueserecipes.com/wp-content/themes/klaus/_include/js/main.js"></script>
+	
+
+
+<iframe id="google_osd_static_frame_6434599956059" name="google_osd_static_frame" style="display: none; width: 0px; height: 0px;"></iframe><iframe name="oauth2relay371141152" id="oauth2relay371141152" src="https://accounts.google.com/o/oauth2/postmessageRelay?parent=https%3A%2F%2Feasyportugueserecipes.com&amp;jsh=m%3B%2F_%2Fscs%2Fapps-static%2F_%2Fjs%2Fk%3Doz.gapi.en.7kWSr24wXFc.O%2Fam%3DwQE%2Fd%3D1%2Fct%3Dzgms%2Frs%3DAGLTcCN-4ZptW5UzimRFZRBm6izu5h2ZaQ%2Fm%3D__features__#rpctoken=257711494&amp;forcesecure=1" tabindex="-1" aria-hidden="true" style="width: 1px; height: 1px; position: absolute; top: -100px;"></iframe><script id="PIN_1576003966188.f.callback[1]" type="text/javascript" charset="utf-8" src="https://log.pinterest.com/?type=pidget&amp;guid=RL2fVYuVDx1Y&amp;tv=2019040401&amp;event=init&amp;sub=www&amp;button_count=2&amp;follow_count=0&amp;pin_count=0&amp;profile_count=0&amp;board_count=0&amp;section_count=0&amp;lang=en&amp;nvl=en-US&amp;via=https%3A%2F%2Feasyportugueserecipes.com%2Fportuguese-rolls-papo-secos%2F&amp;callback=PIN_1576003966188.f.callback[1]" gapi_processed="true"></script>
